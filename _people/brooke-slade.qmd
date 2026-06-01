@@ -12,9 +12,12 @@ and uncomment the image line below.
 <p class="role">PhD Student</p>
 
 ::: {.contact}
-Inst. f. Molecular Health Sciences, HPL F 16.2
+Inst. f. Molecular Health Sciences, HPL F 23.2
 
 [brooke.slade@biol.ethz.ch](mailto:brooke.slade@biol.ethz.ch)
+
+<a href="https://www.linkedin.com/in/brooke-slade-30289410b/" target="_blank"><i class="bi bi-linkedin"></i> LinkedIn</a>
+
 :::
 
 :::
