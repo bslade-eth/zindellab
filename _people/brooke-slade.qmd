@@ -9,7 +9,7 @@ and uncomment the image line below.
 ![](assets/people/brooke-slade.jpg){.person-photo}
 
 ### Brooke Slade
-<p class="role">PhD Student</p>
+<p class="role">PhD Student test</p>
 
 ::: {.contact}
 Inst. f. Molecular Health Sciences, HPL F 16.2
